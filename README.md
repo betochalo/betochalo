@@ -42,7 +42,7 @@
 
 <br>
 
-## GitHub Stats 📈 :
+<!--## GitHub Stats 📈 :
 
 <br>
 
@@ -68,4 +68,4 @@
 
 Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
 
-Last edited on: 30/06/2022
+Last edited on: 30/06/2022-->

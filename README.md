@@ -16,7 +16,7 @@
 
 <br>
 
-[![@roberth-chachalo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn de Robeth Chachalo")](www.linkedin.com/in/roberthchachalo) 
+[![@roberth-chachalo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn de Robeth Chachalo")](www.linkedin.com/in/roberthchachalo/) 
 [![@roberthchalo151@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Enviar correo a roberthchalo151@gmail.com")](mailto:roberthchalo151@gmail.com)
 
 <br>
